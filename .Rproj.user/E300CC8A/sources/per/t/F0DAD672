@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544273088924.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F0DAD672",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1544273088924,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5EF377B0",
+        "caption" : "telco_final",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=telco_final&cache_key=5EF377B0",
+        "displayedObservations" : 7032,
+        "environment" : "",
+        "object" : "telco_final",
+        "preview" : 0,
+        "totalObservations" : 7032,
+        "variables" : 29
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

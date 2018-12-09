@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544207323186.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "18B7F53B",
+    "lastKnownWriteTime" : 4849890028559532038,
+    "last_content_update" : 1544207323186,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "3d855102342847879878ed755b0d1e87",
+        "name" : "rf.roc",
+        "title" : "rf.roc"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

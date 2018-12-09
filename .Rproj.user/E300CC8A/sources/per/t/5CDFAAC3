@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540051380816.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2161971052",
+    "id" : "5CDFAAC3",
+    "lastKnownWriteTime" : 1540085147,
+    "last_content_update" : 1540085147936,
+    "path" : "~/Desktop/DATASCIENCEPROJECT/TelcoCustomerChurnProject/Test_Code.R",
+    "project_path" : "Test_Code.R",
+    "properties" : {
+        "cursorPosition" : "42,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\n## Importing packages\nlibrary(tidyverse) \nlibrary(MASS)\nlibrary(car)\nlibrary(e1071)\nlibrary(caret)\nlibrary(cowplot)\nlibrary(caTools)\nlibrary(pROC)\nlibrary(ggcorrplot)\n\nlist.files(path = \"../input\")",
+    "created" : 1538249271849.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1619249443",
+    "id" : "32AA82E6",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1538249586234,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

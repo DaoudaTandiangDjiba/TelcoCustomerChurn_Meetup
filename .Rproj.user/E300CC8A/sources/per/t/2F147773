@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544188606713.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2672181872",
+    "id" : "2F147773",
+    "lastKnownWriteTime" : 1544224609,
+    "last_content_update" : 1544224609071,
+    "path" : "~/Desktop/DATASCIENCEPROJECT/TelcoCustomerChurnProject/First_script.R",
+    "project_path" : "First_script.R",
+    "properties" : {
+        "cursorPosition" : "245,20",
+        "scrollLine" : "230",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
